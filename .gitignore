@@ -2,4 +2,3 @@
 venv
 requirements.txt
 setup_database.py
-frontend
